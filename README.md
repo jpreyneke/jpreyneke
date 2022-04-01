@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpreyneke
-- 👀 I’m interested in blockchains / smartcontracts / cryptocurrency
+- 👀 I’m interested in blockchains / smartcontracts / cryptocurrencies / golang
 - 🌱 I’m currently learning Celo & Near Blockchain (Rust)
 - 💞️ I’m looking to collaborate Celo & Near projects (I can work with Golang / VueJS / Javascript / TypeScript / Solidity)
 <!-- 📫 How to reach me .. -->
