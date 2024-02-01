@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jpreyneke
-- 👀 I’m interested in Blockchains Dev / Smart Contracts / Golang / VueJS and more recently AI
-- 🌱 I’m currently doing the Alchemy University Ethereum Dev Bootcamp
+- 👀 I’m interested in Golang / VueJS and more recently SUI Blockchain and the Move Language
 <!-- 📫 How to reach me .. -->
 You can reach me on jpreyneke1@gmail.com
 <!---
